@@ -1,49 +1,49 @@
 [
     {
-        "id": "1",
-        "nombre": "Pizería WEB",
-        "url": "www.nose.com.ar",
-        "tecnologias": "HTML, CSS, JavaScript, PHP, MySQL",
-        "categorias": "Desarrollo Web",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
         "id": "2",
-        "nombre": "Pizería WEB",
-        "url": "www.nose.com.ar",
-        "tecnologias": "HTML, CSS, JavaScript, PHP, MySQL",
+        "nombre": "Casa del Búho",
+        "url": "www.prueba.com.ar",
+        "tecnologias": "HTML, CSS, JavaScript",
         "categorias": "Desarrollo Web",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
         "id": "3",
         "nombre": "Pizería WEB",
-        "url": "www.nose.com.ar",
-        "tecnologias": "HTML, CSS, JavaScript, PHP, MySQL",
-        "categorias": "Desarrollo Web",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-        "id": "4",
-        "nombre": "Pizería WEB",
-        "url": "www.nose.com.ar",
-        "tecnologias": "HTML, CSS, JavaScript, PHP, MySQL",
+        "url": "www.prueba.com.ar",
+        "tecnologias": "HTML, CSS, JavaScript",
         "categorias": "Desarrollo Web",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
         "id": "5",
-        "nombre": "Pizería WEB",
-        "url": "www.nose.com.ar",
-        "tecnologias": "HTML, CSS, JavaScript, PHP, MySQL",
-        "categorias": "Desarrollo Web",
+        "nombre": "Pokedex",
+        "url": "www.prueba.com.ar",
+        "tecnologias": "HTML, CSS, JavaScript, React",
+        "categorias": "Desarrollo con React",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
         "id": "6",
-        "nombre": "Pizería WEB",
-        "url": "www.nose.com.ar",
-        "tecnologias": "HTML, CSS, JavaScript, PHP, MySQL",
+        "nombre": "Netflix Landing Page",
+        "url": "www.prueba.com.ar",
+        "tecnologias": "HTML, Sass/CSS, JavaScript",
+        "categorias": "Desarrollo Web",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": "8",
+        "nombre": "Ecommerce",
+        "url": "www.prueba.com.ar",
+        "tecnologias": "HTML, Sass/CSS, JavaScript, React",
+        "categorias": "Desarrollo con React",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": "9",
+        "nombre": "Responsive Restaurant Website",
+        "url": "www.prueba.com.ar",
+        "tecnologias": "HTML, CSS, JavaScript",
         "categorias": "Desarrollo Web",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     }

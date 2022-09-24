@@ -15,12 +15,12 @@ export const Item = () => {
   return (
     <div className='page page-work'>
         <div className='mask'>
-            <img src={"/images/"+proyecto.id+".jpg"}></img>
+            <img src={"/images/"+'proyecto'+proyecto.id+".png"} alt='foto_portada_proyecto'></img>
         </div>
         <h1 className='heading'>{proyecto.nombre}</h1>
-        <p>{proyecto.tecnologias}</p>
-        <p>{proyecto.descripcion}</p>
-        <a href={"https://"+proyecto.url} target="_blank">Ir al proyecto</a>
+        <p className='tecn'>{proyecto.tecnologias}</p>
+        <p className='desc'>{proyecto.description}</p>
+        <a href="#" className='btn_go' target="_blank">Ir al proyecto</a>
     </div>
   )
 }

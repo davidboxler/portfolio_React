@@ -12,7 +12,7 @@ export const Proyectos = () => {
           return (
             <article key={item.id} className="work-item">
               <div className="mask">
-                <img src={"/images/" + item.id + ".jpg"}></img>
+                <img src={"/images/" + 'proyecto' + item.id + ".png"}></img>
               </div>
               <span>{item.categorias}</span>
               <h2>

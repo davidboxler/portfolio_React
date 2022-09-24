@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export const Inicio = () => {
   return (
     <div className="home">
-      <h1>Hola soy David boxler <strong>desarrollador Front-end</strong></h1>
+      <h1>Hola soy David boxler <strong>Front-end developer</strong></h1>
 
       <h2>
         Te ayudo a crear tu sitio o apicación web, tener más visibilidad y

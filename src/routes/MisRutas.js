@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import { Inicio } from "../components/Inicio";
 import { Proyectos } from "../components/Proyectos";
-import { Servicios } from "../components/Servicios";
+import { Habilidades } from "../components/Habilidades";
 import { Curriculum } from "../components/Curriculum";
 import { Contacto } from "../components/Contacto";
 import { HeaderNav } from "../components/layout/HeaderNav";
@@ -22,7 +22,7 @@ export const MisRutas = () => {
           <Route path="/" element={<Navigate to='/inicio' />} />
           <Route path="/inicio" element={<Inicio />} />
           <Route path="/proyectos" element={<Proyectos />} />
-          <Route path="/servicios" element={<Servicios />} />
+          <Route path="/habilidades" element={<Habilidades />} />
           <Route path="/curriculum" element={<Curriculum />} />
           <Route path="/contacto" element={<Contacto />} />
           <Route path="/proyectos/:id" element={<Item />} />
