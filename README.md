@@ -3,7 +3,7 @@
 <p>
 -  Proyecto realizado a partir de un curso de tomado en Udemy sobre desarrollo en React. Se trata de un portfolio personal que posee diferentes secciones tales como inicio, proyectos, servicios, curriculum y una sección de contacto donde se pueden enviar mails.  
 </p> 
-<img width="100%" src="" alt="banner_portfolio" />
+<img width="100%" src="https://github.com/davidboxler/portfolio_React/blob/master/public/proyecto4.png" alt="banner_portfolio" />
 
 <h3> Tecnologías utilizadas: </h3>
 
